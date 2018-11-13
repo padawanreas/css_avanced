@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Autheurs : Charlotte Vaudour, Rauana Roupsard rebecca bossé
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+sur le terminal:
+<li>rails db:create</li>
+<li>rails s</li>
+sur le net
+<li>localhost:3000</li>
